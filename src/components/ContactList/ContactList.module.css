@@ -1,0 +1,17 @@
+.contact__list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact__item {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: inset 0px 0px 15px rgb(180, 180, 180);
+  border-radius: 5px;
+  padding: 15px 10px;
+}
+
+.btn {
+ height: 40px;
+}
